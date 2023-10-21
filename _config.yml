@@ -2,3 +2,6 @@ theme: minima
 title: Isaiah Day
 
 markdown: kramdown
+
+minima:
+  header_pages:
