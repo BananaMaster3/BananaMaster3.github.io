@@ -1,9 +1,5 @@
-theme: minima
 title: Isaiah Day
 
 markdown: kramdown
+theme: jekyll-theme-tactile
 
-minima:
-  header_pages:
-    - index.md
-    - projects.md
