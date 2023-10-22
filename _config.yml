@@ -5,5 +5,5 @@ markdown: kramdown
 
 minima:
   header_pages:
-    index.md
-    projects.md
+    - index.md
+    - projects.md
