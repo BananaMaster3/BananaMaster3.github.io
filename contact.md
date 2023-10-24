@@ -4,10 +4,10 @@ title: Contact
 ---
 
 
-Email: isaiahgrisha@gmail.com
+Email: isaiahgrisha@gmail.com  
 
-Github: BananaMaster3
+Github: BananaMaster3  
 
-Replit: isaiah08 (I'm really active over there, though)
+Replit: isaiah08 (I'm really active over there, though)  
 
-Discord: ~~i forgot~~
+Discord: ~~i forgot~~  
