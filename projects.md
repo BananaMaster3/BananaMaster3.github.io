@@ -1,6 +1,6 @@
 ___
 
-### [Brainboard](https://bananamaster3.github.io/projects/brainboard.html)
+### [Brainboard](https://bananamaster3.github.io/projects/brainboard/index.html)
 A little website I made to let me organize my thoughts.
 
 ___
