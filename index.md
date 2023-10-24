@@ -1,4 +1,8 @@
-# Hi, I'm Isaiah Day.
+---
+layout: default
+title: Hi, I'm Isaiah Day.
+---
+
 
 ## [Projects](https://bananamaster3.github.io/projects)
 Cool stuff I made!

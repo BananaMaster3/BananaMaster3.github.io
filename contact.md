@@ -1,4 +1,8 @@
-# Contact
+---
+layout: default
+title: Contact
+---
+
 
 Email: isaiahgrisha@gmail.com
 Github: BananaMaster3
